@@ -34,6 +34,9 @@ Neler yapamazsın ki? **Nmap**'in sahip olduğu birçok komutu kullanabilirsin. 
 
 ## Sık Sorulanlar
 
+**Hangi sistemlerde çalışır?**  
+Bu araç, Python 3 ve Nmap yüklü olduğu sürece Windows 7 ve üzeri, Linux (Ubuntu, Debian, vb.) ile macOS’ta çalışır.
+
 **nmap-oto ücretsiz mi?**  
 Evet, tamamen ücretsizdir!
 
@@ -42,9 +45,6 @@ Siber güvenliğe ilgi duyan herkes! Ancak etik kullanımı unutmayın.
 
 **nmap-oto yasal mı?**  
 Evet, ancak **sadece izinli testlerde kullanılması gerektiğini** unutmayın.
-
-**Hangi sistemlerde çalışır?**  
-Linux ve Windows üzerinde test edildi ve uyumlu hale getirildi.
 
 **Yeni özellikler eklenebilir mi?**  
 Tabii ki! Geri bildirimlerinizi ve önerilerinizi bizimle paylaşabilirsiniz.
