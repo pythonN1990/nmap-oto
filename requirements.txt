@@ -1,0 +1,5 @@
+psutil
+socket
+pyfiglet
+colorama
+ipaddress
